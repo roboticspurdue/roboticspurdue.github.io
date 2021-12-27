@@ -28,5 +28,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Passive Discrete Variable Stiffness Joint (pDVSJ-II): modeling, design, characterization, and testing toward passive haptic interface</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2019-passive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2019-passive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a novel passive binary-controlled variable stiffness joint (bpvsj) towards passive haptic interface application</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2018-design/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2018-design/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -44,5 +44,85 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Passive Discrete Variable Stiffness Joint (pDVSJ-II): modeling, design, characterization, and testing toward passive haptic interface</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2019-passive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2019-passive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint force decomposition and variation in unified inverse dynamics analysis of a metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-joint/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified kinematics and optimal design of a 3rRPS metamorphic parallel mechanism with a reconfigurable revolute joint</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-unified/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward kinematics solution distribution and analytic singularity-free workspace of linear-actuated symmetrical spherical parallel manipulators</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2015-forward/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2015-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularity-free workspace aimed optimal design of a 2T2R parallel mechanism for automated fiber placement</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2015-singularity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2015-singularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint-plane-based synthesis and topology variation of a class of metamorphic parallel mechanisms</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2014-constraint/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2014-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurability and unified kinematics modeling of a 3rTPS metamorphic parallel mechanism with perpendicular constraint screws</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-reconfigurability/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-reconfigurability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stiffness design for a spatial three degrees of freedom serial compliant manipulator based on impact configuration decomposition</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-stiffness/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-stiffness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified kinematics and singularity analysis of a metamorphic parallel mechanism with bifurcated motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-unified/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-unified/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

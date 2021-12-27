@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darwin G Caldwell | Robotics Research Group at Purdue</title>
+    <link>https://roboticspurdue.github.io/authors/darwin-g-caldwell/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/darwin-g-caldwell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darwin G Caldwell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
+      <title>Darwin G Caldwell</title>
+      <link>https://roboticspurdue.github.io/authors/darwin-g-caldwell/</link>
+    </image>
+    
+    <item>
+      <title>Stiffness design for a spatial three degrees of freedom serial compliant manipulator based on impact configuration decomposition</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-stiffness/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-stiffness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
