@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongming Gan | Robotics Research Group at Purdue</title>
+    <link>https://roboticspurdue.github.io/authors/dongming-gan/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/dongming-gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongming Gan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright>
+    <image>
+      <url>https://roboticspurdue.github.io/authors/dongming-gan/avatar_hue16951334a35477f85b2d7cfe0fa4249_9073_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dongming Gan</title>
+      <link>https://roboticspurdue.github.io/authors/dongming-gan/</link>
+    </image>
+    
+  </channel>
+</rss>
+link>
+    </image>
+    
+    <item>
+      <title>Compliant gripper design, prototyping, and modeling using screw theory formulation</title>
+      <link>https://roboticspurdue.github.io/publication/hussain2021compliant/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain2021compliant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and prototyping soft–rigid tendon-driven modular grippers using interpenetrating phase composites materials</title>
+      <link>https://roboticspurdue.github.io/publication/hussain2020design/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain2020design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
