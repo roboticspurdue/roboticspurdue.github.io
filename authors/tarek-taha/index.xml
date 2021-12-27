@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarek Taha | Robotics Research Group at Purdue</title>
+    <link>https://roboticspurdue.github.io/authors/tarek-taha/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/tarek-taha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tarek Taha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
+      <title>Tarek Taha</title>
+      <link>https://roboticspurdue.github.io/authors/tarek-taha/</link>
+    </image>
+    
+    <item>
+      <title>Energy distribution in Dual-UAV collaborative transportation through load sharing</title>
+      <link>https://roboticspurdue.github.io/publication/mohiuddin-2020-energy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/mohiuddin-2020-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV payload transportation via RTDP based optimized velocity profiles</title>
+      <link>https://roboticspurdue.github.io/publication/mohiuddin-2019-uav/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/mohiuddin-2019-uav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
