@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lakmal D Seneviratne | Robotics Research Group at Purdue</title>
+    <title>Lakmal D Seneviratne | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/lakmal-d-seneviratne/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/lakmal-d-seneviratne/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakmal D Seneviratne</description>
@@ -29,10 +29,58 @@
     </item>
     
     <item>
+      <title>Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network</title>
+      <link>https://roboticspurdue.github.io/publication/islam-2017-haptics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/islam-2017-haptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal design of a metamorphic parallel mechanism with reconfigurable 1T2R and 3R motion based on unified motion/force transmissibility</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variable motion/force transmissibility of a metamorphic parallel mechanism with reconfigurable 3T and 3R motion</title>
       <link>https://roboticspurdue.github.io/publication/gan-2016-variable/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2016-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable motion/force transmissibility of a metamorphic parallel mechanism with reconfigurable 3T and 3R motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2015-variable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2015-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Kinematics Analysis and Analytic Singularity-Free Workspace of a Metamorphic Parallel Mechanism With Controllable Rotation Center</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2014-unified/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2014-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Rotation Workspace of a Metamorphic Parallel Mechanism With Reconfigurable Universal Joints</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-controllable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-controllable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified inverse dynamics of variable topologies of a metamorphic parallel mechanism using screw theory</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-unified-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-unified-2/</guid>
       <description></description>
     </item>
     

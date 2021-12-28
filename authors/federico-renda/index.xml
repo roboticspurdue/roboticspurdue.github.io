@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Federico Renda | Robotics Research Group at Purdue</title>
+    <title>Federico Renda | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/federico-renda/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/federico-renda/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Renda</description>
@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Design and prototype of supernumerary robotic finger (SRF) inspired by fin ray® effect for patients suffering from sensorimotor hand impairment</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2019-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2019-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design, Modeling and Testing of a Flagellum-inspired Soft Underwater Propeller Exploiting Passive Elasticity</title>
       <link>https://roboticspurdue.github.io/publication/calisti-2019-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -41,6 +49,22 @@
       <link>https://roboticspurdue.github.io/publication/anwar-2019-modeling/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/anwar-2019-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and numerical simulations of a passive robotic walker using Euler-Lagrange method</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-dynamic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</guid>
       <description></description>
     </item>
     

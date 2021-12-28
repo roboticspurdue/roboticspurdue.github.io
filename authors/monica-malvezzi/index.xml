@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monica Malvezzi | Robotics Research Group at Purdue</title>
+    <title>Monica Malvezzi | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/monica-malvezzi/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/monica-malvezzi/index.xml" rel="self" type="application/rss+xml" />
     <description>Monica Malvezzi</description>
@@ -25,6 +25,30 @@
       <link>https://roboticspurdue.github.io/publication/hussain-2020-design/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/hussain-2020-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and prototype of supernumerary robotic finger (SRF) inspired by fin ray® effect for patients suffering from sensorimotor hand impairment</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2019-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2019-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of a soft prosthetic hand exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jorge Dias | Robotics Research Group at Purdue</title>
+    <title>Jorge Dias | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/jorge-dias/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/jorge-dias/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Dias</description>
@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Coverage path planning with adaptive viewpoint sampling to construct 3D models of complex structures for the purpose of inspection</title>
+      <link>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design of a novel passive binary-controlled variable stiffness joint (bpvsj) towards passive haptic interface application</title>
       <link>https://roboticspurdue.github.io/publication/awad-2018-design/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -29,10 +37,50 @@
     </item>
     
     <item>
+      <title>Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network</title>
+      <link>https://roboticspurdue.github.io/publication/islam-2017-haptics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/islam-2017-haptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Joint force decomposition and variation in unified inverse dynamics analysis of a metamorphic parallel mechanism</title>
       <link>https://roboticspurdue.github.io/publication/gan-2016-joint/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2016-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, design &amp; characterization of a novel Passive Variable Stiffness Joint (pVSJ)</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel passive discrete variable stiffness joint (pDVSJ): modeling, design, and characterization</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-novel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal design of a metamorphic parallel mechanism with reconfigurable 1T2R and 3R motion based on unified motion/force transmissibility</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration and static joint force variation of a 3rRps metamorphic parallel mechanism with 3R and 1T2R motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-reconfiguration/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-reconfiguration/</guid>
       <description></description>
     </item>
     
@@ -69,6 +117,14 @@
     </item>
     
     <item>
+      <title>Variable motion/force transmissibility of a metamorphic parallel mechanism with reconfigurable 3T and 3R motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2015-variable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2015-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constraint-plane-based synthesis and topology variation of a class of metamorphic parallel mechanisms</title>
       <link>https://roboticspurdue.github.io/publication/gan-2014-constraint/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -77,10 +133,58 @@
     </item>
     
     <item>
+      <title>Joint force decomposition and variation in unified inverse dynamics analysis of a metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2014-joint/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2014-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Kinematics Analysis and Analytic Singularity-Free Workspace of a Metamorphic Parallel Mechanism With Controllable Rotation Center</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2014-unified/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2014-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitude control of quad-rotor UAVs using an intuitive kinematics model</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-attitude/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-attitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Rotation Workspace of a Metamorphic Parallel Mechanism With Reconfigurable Universal Joints</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-controllable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-controllable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object shape perception in blind robot grasping using a wrist force/torque sensor</title>
+      <link>https://roboticspurdue.github.io/publication/al-2013-object/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/al-2013-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reconfigurability and unified kinematics modeling of a 3rTPS metamorphic parallel mechanism with perpendicular constraint screws</title>
       <link>https://roboticspurdue.github.io/publication/gan-2013-reconfigurability/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2013-reconfigurability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified inverse dynamics of variable topologies of a metamorphic parallel mechanism using screw theory</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-unified-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-unified-2/</guid>
       <description></description>
     </item>
     

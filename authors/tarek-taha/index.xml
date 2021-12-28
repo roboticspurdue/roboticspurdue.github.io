@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tarek Taha | Robotics Research Group at Purdue</title>
+    <title>Tarek Taha | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/tarek-taha/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/tarek-taha/index.xml" rel="self" type="application/rss+xml" />
     <description>Tarek Taha</description>
@@ -41,6 +41,22 @@
       <link>https://roboticspurdue.github.io/publication/mohiuddin-2019-uav/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/mohiuddin-2019-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage path planning with adaptive viewpoint sampling to construct 3D models of complex structures for the purpose of inspection</title>
+      <link>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Reconstruction of Complex Structures with Online Profiling and Adaptive Viewpoint Sampling</title>
+      <link>https://roboticspurdue.github.io/publication/abduldayem-20173-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/abduldayem-20173-d/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shramana Ghosh | Robotics Research Group at Purdue</title>
+    <title>Shramana Ghosh | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/shramana-ghosh/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/shramana-ghosh/index.xml" rel="self" type="application/rss+xml" />
     <description>Shramana Ghosh</description>
@@ -17,6 +17,14 @@
       <link>https://roboticspurdue.github.io/publication/awad-2021-double/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/awad-2021-double/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of passive 3-PRR planar parallel manipulators for self-alignment of exoskeleton axes</title>
+      <link>https://roboticspurdue.github.io/publication/ghosh-2016-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/ghosh-2016-design/</guid>
       <description></description>
     </item>
     

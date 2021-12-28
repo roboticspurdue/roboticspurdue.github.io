@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rongjie Kang | Robotics Research Group at Purdue</title>
+    <title>Rongjie Kang | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/rongjie-kang/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/rongjie-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Rongjie Kang</description>
@@ -17,6 +17,14 @@
       <link>https://roboticspurdue.github.io/publication/meng-2020-mechanically/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/meng-2020-mechanically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shape Memory Alloy Driven Crawling Robot Utilizing a Bistable Mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/meng-2019-shape/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/meng-2019-shape/</guid>
       <description></description>
     </item>
     

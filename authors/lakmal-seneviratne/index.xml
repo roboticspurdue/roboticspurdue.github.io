@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lakmal Seneviratne | Robotics Research Group at Purdue</title>
+    <title>Lakmal Seneviratne | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/lakmal-seneviratne/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/lakmal-seneviratne/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakmal Seneviratne</description>
@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Design and prototype of supernumerary robotic finger (SRF) inspired by fin ray® effect for patients suffering from sensorimotor hand impairment</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2019-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2019-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design, Modeling and Testing of a Flagellum-inspired Soft Underwater Propeller Exploiting Passive Elasticity</title>
       <link>https://roboticspurdue.github.io/publication/calisti-2019-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -61,6 +69,38 @@
     </item>
     
     <item>
+      <title>Coverage path planning with adaptive viewpoint sampling to construct 3D models of complex structures for the purpose of inspection</title>
+      <link>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/almadhoun-2018-coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and numerical simulations of a passive robotic walker using Euler-Lagrange method</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-dynamic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of a soft prosthetic hand exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
       <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -69,10 +109,50 @@
     </item>
     
     <item>
+      <title>Modeling, control, and numerical simulations of a novel binary-controlled variable stiffness actuator (bcvsa)</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Reconstruction of Complex Structures with Online Profiling and Adaptive Viewpoint Sampling</title>
+      <link>https://roboticspurdue.github.io/publication/abduldayem-20173-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/abduldayem-20173-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Joint force decomposition and variation in unified inverse dynamics analysis of a metamorphic parallel mechanism</title>
       <link>https://roboticspurdue.github.io/publication/gan-2016-joint/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2016-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, design &amp; characterization of a novel Passive Variable Stiffness Joint (pVSJ)</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel passive discrete variable stiffness joint (pDVSJ): modeling, design, and characterization</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-novel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration and static joint force variation of a 3rRps metamorphic parallel mechanism with 3R and 1T2R motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2016-reconfiguration/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2016-reconfiguration/</guid>
       <description></description>
     </item>
     
@@ -105,6 +185,30 @@
       <link>https://roboticspurdue.github.io/publication/gan-2014-constraint/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2014-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint force decomposition and variation in unified inverse dynamics analysis of a metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2014-joint/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2014-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attitude control of quad-rotor UAVs using an intuitive kinematics model</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2013-attitude/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2013-attitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object shape perception in blind robot grasping using a wrist force/torque sensor</title>
+      <link>https://roboticspurdue.github.io/publication/al-2013-object/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/al-2013-object/</guid>
       <description></description>
     </item>
     

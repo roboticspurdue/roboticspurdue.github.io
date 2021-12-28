@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cesare Stefanini | Robotics Research Group at Purdue</title>
+    <title>Cesare Stefanini | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/cesare-stefanini/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/cesare-stefanini/index.xml" rel="self" type="application/rss+xml" />
     <description>Cesare Stefanini</description>
@@ -33,6 +33,14 @@
       <link>https://roboticspurdue.github.io/publication/awad-2018-design/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/awad-2018-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel passive discrete variable stiffness joint (pDVSJ): modeling, design, and characterization</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-novel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-novel/</guid>
       <description></description>
     </item>
     

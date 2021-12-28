@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rajkumar Muthusamy | Robotics Research Group at Purdue</title>
+    <title>Rajkumar Muthusamy | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/rajkumar-muthusamy/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/rajkumar-muthusamy/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajkumar Muthusamy</description>
@@ -25,6 +25,22 @@
       <link>https://roboticspurdue.github.io/publication/huang-2020-neuromorphic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/huang-2020-neuromorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and prototype of supernumerary robotic finger (SRF) inspired by fin ray® effect for patients suffering from sensorimotor hand impairment</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2019-design/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2019-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation and design of robotic assistance control system for cooperative manipulation</title>
+      <link>https://roboticspurdue.github.io/publication/muthusamy-2019-investigation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/muthusamy-2019-investigation/</guid>
       <description></description>
     </item>
     

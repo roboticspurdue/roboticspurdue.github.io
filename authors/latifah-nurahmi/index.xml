@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latifah Nurahmi | Robotics Research Group at Purdue</title>
+    <title>Latifah Nurahmi | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/latifah-nurahmi/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/latifah-nurahmi/index.xml" rel="self" type="application/rss+xml" />
     <description>Latifah Nurahmi</description>
@@ -33,6 +33,30 @@
       <link>https://roboticspurdue.github.io/publication/nurahmi-2020-reconfiguration/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/nurahmi-2020-reconfiguration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic analysis of the 3-RRPS metamorphic parallel mechanism based on instantaneous screw axis</title>
+      <link>https://roboticspurdue.github.io/publication/nurahmi-2019-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/nurahmi-2019-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operation mode and workspace of a 3-rRPS metamorphic parallel mechanism with a reconfigurable revolute joint</title>
+      <link>https://roboticspurdue.github.io/publication/nurahmi-2018-operation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/nurahmi-2018-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workspace transition of 3-rRPS metamorphic parallel mechanism in hyperboloid configuration</title>
+      <link>https://roboticspurdue.github.io/publication/nurahmi-2018-workspace/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/nurahmi-2018-workspace/</guid>
       <description></description>
     </item>
     

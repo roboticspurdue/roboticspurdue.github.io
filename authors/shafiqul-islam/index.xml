@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shafiqul Islam | Robotics Research Group at Purdue</title>
+    <title>Shafiqul Islam | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/shafiqul-islam/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/shafiqul-islam/index.xml" rel="self" type="application/rss+xml" />
     <description>Shafiqul Islam</description>
@@ -17,6 +17,14 @@
       <link>https://roboticspurdue.github.io/publication/al-2021-integrating/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/al-2021-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network</title>
+      <link>https://roboticspurdue.github.io/publication/islam-2017-haptics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/islam-2017-haptics/</guid>
       <description></description>
     </item>
     

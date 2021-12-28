@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Miguel Indave | C3 Robotic Lab</title>
+    <link>https://roboticspurdue.github.io/authors/jose-miguel-indave/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/jose-miguel-indave/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Miguel Indave</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
+      <title>Jose Miguel Indave</title>
+      <link>https://roboticspurdue.github.io/authors/jose-miguel-indave/</link>
+    </image>
+    
+    <item>
+      <title>Investigation and design of robotic assistance control system for cooperative manipulation</title>
+      <link>https://roboticspurdue.github.io/publication/muthusamy-2019-investigation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/muthusamy-2019-investigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

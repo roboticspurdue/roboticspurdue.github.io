@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Dario | C3 Robotic Lab</title>
+    <link>https://roboticspurdue.github.io/authors/paolo-dario/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/paolo-dario/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paolo Dario</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
+      <title>Paolo Dario</title>
+      <link>https://roboticspurdue.github.io/authors/paolo-dario/</link>
+    </image>
+    
+    <item>
+      <title>Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network</title>
+      <link>https://roboticspurdue.github.io/publication/islam-2017-haptics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/islam-2017-haptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, design &amp; characterization of a novel Passive Variable Stiffness Joint (pVSJ)</title>
+      <link>https://roboticspurdue.github.io/publication/awad-2016-modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/awad-2016-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

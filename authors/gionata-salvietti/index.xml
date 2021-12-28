@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gionata Salvietti | Robotics Research Group at Purdue</title>
+    <title>Gionata Salvietti | C3 Robotic Lab</title>
     <link>https://roboticspurdue.github.io/authors/gionata-salvietti/</link>
       <atom:link href="https://roboticspurdue.github.io/authors/gionata-salvietti/index.xml" rel="self" type="application/rss+xml" />
     <description>Gionata Salvietti</description>
@@ -11,6 +11,14 @@
       <title>Gionata Salvietti</title>
       <link>https://roboticspurdue.github.io/authors/gionata-salvietti/</link>
     </image>
+    
+    <item>
+      <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
+      <link>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/hussain-2018-modeling-4/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity</title>
