@@ -525,6 +525,38 @@
     </item>
     
     <item>
+      <title>Design and analytical kinematics of a robot wrist based on a parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2012-design/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2012-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration and actuation scheme of 3rTPS metamorphic parallel mechanisms with parallel constraint screws</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration-2/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration and Unified Kinematics Analysis of a Metamorphic Parallel Mechanism With Bifurcated Motion</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified kinematics modeling of variable topologies of a 3rTPS metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/alhussein-2012-unified/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/alhussein-2012-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constraint-based limb synthesis and mobility-change-aimed mechanism construction</title>
       <link>https://roboticspurdue.github.io/publication/gan-2011-constraint/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -533,10 +565,34 @@
     </item>
     
     <item>
+      <title>Joint stiffness tuning for compliant robots: Protecting the robot under accidental impacts</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2011-joint/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2011-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stiffness Design for Compliant Manipulators Based on Dynamics Analysis of the Impact Configuration</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2011-stiffness/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2011-stiffness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constraint analysis on mobility change of a novel metamorphic parallel mechanism</title>
       <link>https://roboticspurdue.github.io/publication/gan-2010-constraint/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/gan-2010-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint-based limb synthesis and mobility-change-aimed mechanism construction</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2010-constraint-3/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2010-constraint-3/</guid>
       <description></description>
     </item>
     
@@ -617,6 +673,14 @@
       <link>https://roboticspurdue.github.io/publication/dong-2007-forward/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://roboticspurdue.github.io/publication/dong-2007-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward kinematics analysis of the new 3-CCC parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2007-forward-2/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2007-forward-2/</guid>
       <description></description>
     </item>
     

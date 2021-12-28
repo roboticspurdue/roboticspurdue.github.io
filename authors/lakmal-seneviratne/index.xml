@@ -236,5 +236,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Design and analytical kinematics of a robot wrist based on a parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2012-design/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2012-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfiguration and actuation scheme of 3rTPS metamorphic parallel mechanisms with parallel constraint screws</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration-2/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2012-reconfiguration-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified kinematics modeling of variable topologies of a 3rTPS metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/alhussein-2012-unified/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/alhussein-2012-unified/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
