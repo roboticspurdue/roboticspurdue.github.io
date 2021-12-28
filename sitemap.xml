@@ -36,7 +36,7 @@
     <lastmod>2021-12-27T17:20:41-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/hussain-2021-compliant/</loc>
     <lastmod>2021-12-27T17:20:40-05:00</lastmod>
@@ -45,19 +45,19 @@
     <lastmod>2021-12-27T18:51:28-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/dongming-gan/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/federico-renda/</loc>
-    <lastmod>2021-12-27T18:51:28-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/al-2021-integrating/</loc>
     <lastmod>2021-12-27T17:27:09-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/irfan-hussain/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/lakmal-seneviratne/</loc>
-    <lastmod>2021-12-27T18:51:49-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/mohammad-i-awad/</loc>
     <lastmod>2021-12-27T21:46:52-05:00</lastmod>
@@ -69,10 +69,10 @@
     <lastmod>2021-12-27T18:51:23-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication_types/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/shafiqul-islam/</loc>
     <lastmod>2021-12-27T17:27:09-05:00</lastmod>
@@ -90,7 +90,7 @@
     <lastmod>2021-12-27T18:51:28-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication-type/1/</loc>
-    <lastmod>2021-12-27T21:46:52-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/meng-2020-mechanically/</loc>
     <lastmod>2021-12-27T17:27:14-05:00</lastmod>
@@ -134,6 +134,9 @@
     <loc>https://roboticspurdue.github.io/authors/fariborz-baghaei-naeini/</loc>
     <lastmod>2021-12-27T17:27:05-05:00</lastmod>
   </url><url>
+    <loc>https://roboticspurdue.github.io/publication/nurahmi-2020-forward/</loc>
+    <lastmod>2021-12-27T21:57:11-05:00</lastmod>
+  </url><url>
     <loc>https://roboticspurdue.github.io/authors/guimin-chen/</loc>
     <lastmod>2021-12-27T17:27:14-05:00</lastmod>
   </url><url>
@@ -141,16 +144,22 @@
     <lastmod>2021-12-27T17:27:20-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/jian-s-dai/</loc>
-    <lastmod>2021-12-27T21:46:38-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:09-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/publication/chai-2020-kinematic/</loc>
+    <lastmod>2021-12-27T21:57:09-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/latifah-nurahmi/</loc>
-    <lastmod>2021-12-27T17:27:16-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:11-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/lingda-meng/</loc>
     <lastmod>2021-12-27T17:27:14-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/lisha-chen/</loc>
     <lastmod>2021-12-27T17:27:14-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/manfred-husty/</loc>
+    <lastmod>2021-12-27T21:57:11-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/muthusamy-2020-neuromorphic/</loc>
     <lastmod>2021-12-27T17:18:34-05:00</lastmod>
@@ -209,6 +218,9 @@
     <loc>https://roboticspurdue.github.io/authors/xiaoqian-huang/</loc>
     <lastmod>2021-12-27T17:27:03-05:00</lastmod>
   </url><url>
+    <loc>https://roboticspurdue.github.io/authors/xuheng-chai/</loc>
+    <lastmod>2021-12-27T21:57:09-05:00</lastmod>
+  </url><url>
     <loc>https://roboticspurdue.github.io/authors/yafei-fu/</loc>
     <lastmod>2021-12-27T18:51:21-05:00</lastmod>
   </url><url>
@@ -234,10 +246,19 @@
     <lastmod>2021-12-27T21:46:51-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/cesare-stefanini/</loc>
-    <lastmod>2021-12-27T18:51:27-05:00</lastmod>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/costanza-armanini/</loc>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/al-2019-deep/</loc>
     <lastmod>2021-12-27T17:27:25-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/publication/calisti-2019-design/</loc>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/francesco-giorgio-serchi/</loc>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/jorge-dias/</loc>
     <lastmod>2021-12-27T18:51:49-05:00</lastmod>
@@ -250,6 +271,12 @@
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/liwei-shi/</loc>
     <lastmod>2021-12-27T21:46:51-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/madiha-farman/</loc>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/marcello-calisti/</loc>
+    <lastmod>2021-12-27T21:57:13-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/publication/anwar-2019-modeling/</loc>
     <lastmod>2021-12-27T18:51:23-05:00</lastmod>
@@ -356,11 +383,20 @@
     <loc>https://roboticspurdue.github.io/publication/gan-2011-constraint/</loc>
     <lastmod>2021-12-27T21:46:30-05:00</lastmod>
   </url><url>
+    <loc>https://roboticspurdue.github.io/publication-type/6/</loc>
+    <lastmod>2021-12-27T21:57:06-05:00</lastmod>
+  </url><url>
     <loc>https://roboticspurdue.github.io/publication/gan-2010-constraint/</loc>
     <lastmod>2021-12-27T21:46:31-05:00</lastmod>
   </url><url>
+    <loc>https://roboticspurdue.github.io/publication/gan-2010-constraint-2/</loc>
+    <lastmod>2021-12-27T21:57:06-05:00</lastmod>
+  </url><url>
     <loc>https://roboticspurdue.github.io/publication/gan-2010-design/</loc>
     <lastmod>2021-12-27T21:46:33-05:00</lastmod>
+  </url><url>
+    <loc>https://roboticspurdue.github.io/authors/dg-caldwell/</loc>
+    <lastmod>2021-12-27T21:57:06-05:00</lastmod>
   </url><url>
     <loc>https://roboticspurdue.github.io/authors/qizheng-liao/</loc>
     <lastmod>2021-12-27T21:46:49-05:00</lastmod>
