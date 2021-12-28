@@ -92,5 +92,53 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Constraint-based limb synthesis and mobility-change-aimed mechanism construction</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2011-constraint/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2011-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint analysis on mobility change of a novel metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2010-constraint/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2010-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and kinematics analysis of a new 3CCC parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2010-design/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2010-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward displacement analysis of a new 1CCC--5SPS parallel mechanism using Gröbner theory</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-forward-2/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-forward-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward displacement analysis of the general 6--6 Stewart mechanism using Gröbner bases</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-forward/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility change in two types of metamorphic parallel mechanisms</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-mobility/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-mobility/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

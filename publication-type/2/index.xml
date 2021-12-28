@@ -268,5 +268,101 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Constraint-based limb synthesis and mobility-change-aimed mechanism construction</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2011-constraint/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2011-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint analysis on mobility change of a novel metamorphic parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2010-constraint/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2010-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and kinematics analysis of a new 3CCC parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2010-design/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2010-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward displacement analysis of a new 1CCC--5SPS parallel mechanism using Gröbner theory</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-forward-2/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-forward-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward displacement analysis of the general 6--6 Stewart mechanism using Gröbner bases</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-forward/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility change in two types of metamorphic parallel mechanisms</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2009-mobility/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2009-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual quaternion-based inverse kinematics of the general spatial 7R mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2008-dual/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2008-dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Control of a New 3P-6SS Parallel Mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/guo-2008-motion/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/guo-2008-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New method of inverse kinematic analysis of special-dimension serial robot</title>
+      <link>https://roboticspurdue.github.io/publication/cui-2008-new/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/cui-2008-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward kinematics analysis and motion simulation of a new 6-CCS parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2007-forward/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2007-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Kinematics Analysis of the New 2CCC-4SPS Parallel Mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/dong-2007-forward/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/dong-2007-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configurable Analysis and Kinematics Simulation of the new 6-CCS Parallel Mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/li-2006-configurable/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/li-2006-configurable/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pin Wang | Robotics Research Group at Purdue</title>
+    <link>https://roboticspurdue.github.io/authors/pin-wang/</link>
+      <atom:link href="https://roboticspurdue.github.io/authors/pin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pin Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robotics Research Group</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
+      <title>Pin Wang</title>
+      <link>https://roboticspurdue.github.io/authors/pin-wang/</link>
+    </image>
+    
+    <item>
+      <title>New method of inverse kinematic analysis of special-dimension serial robot</title>
+      <link>https://roboticspurdue.github.io/publication/cui-2008-new/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/cui-2008-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward kinematics analysis and motion simulation of a new 6-CCS parallel mechanism</title>
+      <link>https://roboticspurdue.github.io/publication/gan-2007-forward/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://roboticspurdue.github.io/publication/gan-2007-forward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
