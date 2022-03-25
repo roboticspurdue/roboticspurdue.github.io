@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Han Lin | C3 Robotic Lab</title>
-    <link>https://roboticspurdue.github.io/authors/han-lin/</link>
-      <atom:link href="https://roboticspurdue.github.io/authors/han-lin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Han Lin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright>
-    <image>
-      <url>https://roboticspurdue.github.io/authors/han-lin/avatar_hu5168b817051e2e58e75b8e338e592449_171824_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Han Lin</title>
-      <link>https://roboticspurdue.github.io/authors/han-lin/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Han Lin | C3 Robotic Lab</title><link>https://statuesque-frangipane-adba7e.netlify.app/authors/han-lin/</link><atom:link href="https://statuesque-frangipane-adba7e.netlify.app/authors/han-lin/index.xml" rel="self" type="application/rss+xml"/><description>Han Lin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright><image><url>https://statuesque-frangipane-adba7e.netlify.app/authors/han-lin/avatar_hu5168b817051e2e58e75b8e338e592449_171824_270x270_fill_q75_lanczos_center.jpg</url><title>Han Lin</title><link>https://statuesque-frangipane-adba7e.netlify.app/authors/han-lin/</link></image></channel></rss>

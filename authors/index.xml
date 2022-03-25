@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors | C3 Robotic Lab</title>
-    <link>https://roboticspurdue.github.io/authors/</link>
-      <atom:link href="https://roboticspurdue.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://roboticspurdue.github.io/authors/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors | C3 Robotic Lab</title><link>https://statuesque-frangipane-adba7e.netlify.app/authors/</link><atom:link href="https://statuesque-frangipane-adba7e.netlify.app/authors/index.xml" rel="self" type="application/rss+xml"/><description>Authors</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright><lastBuildDate>Thu, 24 Mar 2022 12:00:00 -0400</lastBuildDate><image><url>https://statuesque-frangipane-adba7e.netlify.app/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url><title>Authors</title><link>https://statuesque-frangipane-adba7e.netlify.app/authors/</link></image></channel></rss>

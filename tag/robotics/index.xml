@@ -1,34 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Robotics | C3 Robotic Lab</title>
-    <link>https://roboticspurdue.github.io/tag/robotics/</link>
-      <atom:link href="https://roboticspurdue.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robotics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright><lastBuildDate>Sun, 19 Dec 2021 14:05:00 -0500</lastBuildDate>
-    <image>
-      <url>https://roboticspurdue.github.io/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url>
-      <title>Robotics</title>
-      <link>https://roboticspurdue.github.io/tag/robotics/</link>
-    </image>
-    
-    <item>
-      <title>New_project</title>
-      <link>https://roboticspurdue.github.io/post/new_project/</link>
-      <pubDate>Sun, 19 Dec 2021 14:05:00 -0500</pubDate>
-      <guid>https://roboticspurdue.github.io/post/new_project/</guid>
-      <description>&lt;p&gt;This is an example project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New_project</title>
-      <link>https://roboticspurdue.github.io/project/new_project/</link>
-      <pubDate>Sun, 19 Dec 2021 14:05:00 -0500</pubDate>
-      <guid>https://roboticspurdue.github.io/project/new_project/</guid>
-      <description>&lt;p&gt;This is an example project.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robotics | C3 Robotic Lab</title><link>https://statuesque-frangipane-adba7e.netlify.app/tag/robotics/</link><atom:link href="https://statuesque-frangipane-adba7e.netlify.app/tag/robotics/index.xml" rel="self" type="application/rss+xml"/><description>Robotics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Compliant, Collaborative and Cognitive (C3) Robotic Lab</copyright><lastBuildDate>Thu, 24 Mar 2022 12:00:00 -0400</lastBuildDate><image><url>https://statuesque-frangipane-adba7e.netlify.app/media/icon_hub338f75f05e653e4f44ce9c87c78a264_26552_512x512_fill_lanczos_center_2.png</url><title>Robotics</title><link>https://statuesque-frangipane-adba7e.netlify.app/tag/robotics/</link></image><item><title>Discrete Variable Stiffness Actuators with Fast Stiffness Switch for Safe Human-Robot Interaction</title><link>https://statuesque-frangipane-adba7e.netlify.app/post/nsf/</link><pubDate>Thu, 24 Mar 2022 12:00:00 -0400</pubDate><guid>https://statuesque-frangipane-adba7e.netlify.app/post/nsf/</guid><description>&lt;h2 id="research-problem">Research Problem&lt;/h2>
+&lt;p>A fundamental challenge for the development of co-robots has been finding a balance between high performance and high safety for human interaction, requiring variable stiffness. Existing concepts largely focus on continuous stiffness change resulting in complex designs, high-energy consumption, non-real-time stiffness change, and non-ideal stiffness profile.&lt;/p>
+&lt;h2 id="intellectual-merit">Intellectual Merit&lt;/h2>
+&lt;ul>
+&lt;li>Design representative stiffness levels through discrete principles with consideration of safety of both human and robot.&lt;/li>
+&lt;li>Develop advanced adaptive control algorithms to cover the switching dynamics of the new actuators.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="nsf_1.png" width="450">&lt;/img>
+&lt;img src="nsf_2.png" width="450">&lt;/img>
+&lt;img src="nsf_3.png" width="450">&lt;/img>
+&lt;img src="nsf_4.png" width="450">&lt;/img>&lt;/p>
+&lt;h2 id="scientific-impact">Scientific Impact&lt;/h2>
+&lt;p>The DVSA concept will not only advance VSA-robot development, but also offer a new roadmap for developing compliant actuators benefiting the robotics industry with adaptable compliant dynamics enabled by variable stiffness on walking robots, entertainment, medical and education robotics with human robot physical interactions and needs of intrinsic safety.&lt;/p>
+&lt;h2 id="broader-impacts---society">Broader Impacts - society&lt;/h2>
+&lt;p>The research enables new generation of co-robots for safe human-robot co-working in industrial manufacturing. Co-robots will protect workers and leverage their work safety and efficiency. The intrinsic safety will reduce injuries and disability cost in the workplace.&lt;/p>
+&lt;h2 id="broader-impacts---education">Broader Impacts - education&lt;/h2>
+&lt;ul>
+&lt;li>Expose undergraduate with research experience through the developed actuator platforms and capstone project design&lt;/li>
+&lt;li>K-12 students engagement through summer camps&lt;/li>
+&lt;li>STEM workshops for Purdue Polytechnic High Schools (Nearly 70% of the student body is black) through the Indiana Manufacturing Competitiveness Center (IN-MAC)&lt;/li>
+&lt;/ul></description></item><item><title>New_project</title><link>https://statuesque-frangipane-adba7e.netlify.app/project/new_project/</link><pubDate>Sun, 19 Dec 2021 14:05:00 -0500</pubDate><guid>https://statuesque-frangipane-adba7e.netlify.app/project/new_project/</guid><description>&lt;p>This is an example project.&lt;/p></description></item></channel></rss>
